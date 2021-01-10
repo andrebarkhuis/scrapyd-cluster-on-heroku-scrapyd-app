@@ -4,3 +4,10 @@ scrapy
 scrapyd>=1.2.1
 scrapy-redis
 logparser>=0.8.2
+pymongo[tls,srv]>==3.10.1
+numpy==1.18.4
+furl==2.1.0
+google-api-core==1.23.0
+google-auth==1.24.0
+google-cloud-core==1.4.4
+google-cloud-storage==1.34.0
